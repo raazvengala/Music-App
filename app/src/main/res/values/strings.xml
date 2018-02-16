@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">BluetoothClient</string>
+    <string name="bluetooth_on_off" formatted="false">Bluetooth : %s</string>
+    <string name="no_devices_available">No Devices Available!</string>
+    <string name="discovering">Discovering..</string>
+</resources>
